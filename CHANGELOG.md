@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.81.0 (2026-03-26)
+
+Full Changelog: [sdk-v0.80.0...sdk-v0.81.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.80.0...sdk-v0.81.0)
+
+### Features
+
+* add .type field to APIError for error kind identification ([#790](https://github.com/anthropics/anthropic-sdk-typescript/issues/790)) ([4bf637d](https://github.com/anthropics/anthropic-sdk-typescript/commit/4bf637d962c2203ca7977d4e5447e2b083e29188))
+
+
+### Chores
+
+* **ci:** skip lint on metadata-only changes ([69bdc94](https://github.com/anthropics/anthropic-sdk-typescript/commit/69bdc94a16e5402b8fd19d54a1f4695cba834dbb))
+* **internal:** update gitignore ([46d6667](https://github.com/anthropics/anthropic-sdk-typescript/commit/46d66675d59da125c0a00cc8feb6a13bc6105637))
+* **tests:** bump steady to v0.19.4 ([4957a5e](https://github.com/anthropics/anthropic-sdk-typescript/commit/4957a5e65bdc77528f81c123ec2865784c064055))
+* **tests:** bump steady to v0.19.5 ([c511ae0](https://github.com/anthropics/anthropic-sdk-typescript/commit/c511ae042129805400c5286a02d3c45f49e51ca6))
+* **tests:** bump steady to v0.19.6 ([6d2b4b9](https://github.com/anthropics/anthropic-sdk-typescript/commit/6d2b4b910a687c2cf73bb51450ce24c704fdc384))
+* **tests:** bump steady to v0.19.7 ([d6cff9d](https://github.com/anthropics/anthropic-sdk-typescript/commit/d6cff9d2c8688fb95dc6af0f89ae33480f9758e0))
+
 ## 0.80.0 (2026-03-18)
 
 Full Changelog: [sdk-v0.79.0...sdk-v0.80.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.79.0...sdk-v0.80.0)
