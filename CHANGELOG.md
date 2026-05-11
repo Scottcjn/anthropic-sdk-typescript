@@ -1732,7 +1732,7 @@ Full Changelog: [sdk-v0.13.0...sdk-v0.13.1](https://github.com/anthropics/anthro
 
 ### Chores
 
-* **internal:** reformat pacakge.json ([#284](https://github.com/anthropics/anthropic-sdk-typescript/issues/284)) ([3760c68](https://github.com/anthropics/anthropic-sdk-typescript/commit/3760c68f207b596261da336cbe62b4b84fb1763f))
+* **internal:** reformat package.json ([#284](https://github.com/anthropics/anthropic-sdk-typescript/issues/284)) ([3760c68](https://github.com/anthropics/anthropic-sdk-typescript/commit/3760c68f207b596261da336cbe62b4b84fb1763f))
 * respect `application/vnd.api+json` content-type header ([#286](https://github.com/anthropics/anthropic-sdk-typescript/issues/286)) ([daf0cae](https://github.com/anthropics/anthropic-sdk-typescript/commit/daf0cae6087580d61d4423e113259c8315c2b85a))
 
 ## 0.13.0 (2024-02-02)
@@ -1754,7 +1754,7 @@ Full Changelog: [sdk-v0.12.7...sdk-v0.12.8](https://github.com/anthropics/anthro
 
 ### Chores
 
-* **interal:** make link to api.md relative ([#278](https://github.com/anthropics/anthropic-sdk-typescript/issues/278)) ([46f8c28](https://github.com/anthropics/anthropic-sdk-typescript/commit/46f8c2805af75a5a733fdaa53936765a483471cb))
+* **internal:** make link to api.md relative ([#278](https://github.com/anthropics/anthropic-sdk-typescript/issues/278)) ([46f8c28](https://github.com/anthropics/anthropic-sdk-typescript/commit/46f8c2805af75a5a733fdaa53936765a483471cb))
 * **internal:** enable building when git installed ([#279](https://github.com/anthropics/anthropic-sdk-typescript/issues/279)) ([3065001](https://github.com/anthropics/anthropic-sdk-typescript/commit/3065001610041b0c74cc640b72f646b6ff867db1))
 
 
