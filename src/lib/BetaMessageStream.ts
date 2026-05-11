@@ -109,7 +109,7 @@ export class BetaMessageStream<ParsedT = null> implements AsyncIterable<BetaMess
 
   /**
    * Returns the `MessageStream` data, the raw `Response` instance and the ID of the request,
-   * returned vie the `request-id` header which is useful for debugging requests and resporting
+   * returned via the `request-id` header which is useful for debugging requests and reporting
    * issues to Anthropic.
    *
    * This is the same as the `APIPromise.withResponse()` method.
